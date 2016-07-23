@@ -46,6 +46,6 @@ int main()
         scanf("%d",&value[i]);//value of the unit
         scanf("%d",&weight[i]);//weight of the unit
     }
-    printf("%d",knapsack(value,weight,test,limitks)); //returning the last value of the array i.e the answer
+    printf("%d",knapsack(value,weight,test,limitks));//returning the last value of the array i.e the answer
     return 0;
 }
