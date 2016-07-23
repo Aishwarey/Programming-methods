@@ -28,7 +28,7 @@ int max(int a, int b)
 }
 int main()
 {
-char X[10];// = "AGGTAB";
+char X[10];//= "AGGTAB";
 char Y[10];
 cin>>X;
 cin>>Y;
